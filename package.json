@@ -1,0 +1,20 @@
+{
+  "name": "data_structures_and_algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_methods.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-http": "^1.0.0",
+    "gulp": "^3.9.0",
+    "mocha": "^2.3.3"
+  }
+}
